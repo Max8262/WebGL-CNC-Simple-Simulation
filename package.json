@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "three": "^0.172.0",
+    "three-viewport-gizmo": "^2.0.2"
+  },
+  "devDependencies": {
+    "vite": "^6.1.0"
+  }
+}
